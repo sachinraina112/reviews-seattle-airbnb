@@ -25,3 +25,8 @@ pip install -r requirements.txt
 Distributed under the MIT License. See LICENSE.txt for more information.
 ## Acknowledgement
 The analysis wouldn't have been possible without the open source data shared on kaggle ([Seattle-Airbnb-data](https://www.kaggle.com/datasets/airbnb/seattle)).
+## Summary
+1. We observed the listings dataset and found out not all the highly rated hosts are super-hosts, so there must be an inherent criteria Airbnb uses which is a nice topic for a detailed discussion.
+2. We then concluded that most loyal reviewers/customers are indeed satisfied with Airbnb listings.
+3. Finally, we used predictive analytics to detect whether reviews are indeed affecting price of the listing and it turns out both reviews ratings and cancellation policy are highly influential features for predicting the price of the listing.
+<br> For more details please refer to blog post [here](https://medium.com/@rsachin/are-reviews-affecting-room-listing-price-41ecf1dc44d7)
